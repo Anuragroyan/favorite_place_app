@@ -31,7 +31,7 @@ class _MapScreenState extends State<MapScreen> {
     return Scaffold(
       appBar: AppBar(
           title:
-              Text(widget.isSelecting ? 'Pick your Location' : 'Your Location'),
+              Text(widget.isSelecting ? ' 📍 Pick your Location' : ' 📌 Your Location'),
           actions: [
             if (widget.isSelecting)
               IconButton(
