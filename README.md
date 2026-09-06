@@ -51,4 +51,3 @@ flutter clean
 flutter pub get
 flutter run
 
-Note: Replace <repository-url>, <project-folder>, and <device-id> with the appropriate values for your project.
