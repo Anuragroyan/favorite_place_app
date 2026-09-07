@@ -1,4 +1,6 @@
-# 📍 Favorite Place App is a Flutter application for saving memorable places with names, photos, and locations. It uses native device features such as the camera and location services, along with the Google Maps API to capture and display latitude and longitude details.
+# 📍 Favorite Place App 
+
+# Favorite Place App is a Flutter application for saving memorable places with names, photos, and locations. It uses native device features such as the camera and location services, along with the Google Maps API to capture and display latitude and longitude details.
 
 🚀 Getting Started
 
